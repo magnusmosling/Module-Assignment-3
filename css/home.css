@@ -1,0 +1,66 @@
+body{
+    max-width: 987;
+    margin: 0 auto;
+}
+.header{
+    background-color: blue;
+    height: 50px;
+}
+
+
+.main{
+    background-color: blueviolet;
+    height: 876px;
+}
+
+
+.section-1{
+    background-color: brown;
+    height: 512px;
+    margin-bottom:38px ;
+}
+
+.container{
+    margin: 0 auto;
+
+}
+.section-div{
+    height: 288px ;
+    width: 184px;
+    margin-left:  20px;
+    float: left;
+    background-color: chartreuse;
+
+
+}
+
+
+@media screen and (min-width: 767px) {
+    
+    
+    .header{
+        background-color: blue;
+        height: 50px;
+    }
+
+    .main{
+        background-color: blueviolet;
+        height: 1526px;
+    }
+
+    .container{
+        margin: 0 auto;
+    
+    }
+    .section-div{
+        height: 400px ;
+        width: 345px;
+        margin-left:  20px;
+        float: left;
+        background-color: chartreuse;
+    
+    
+    }
+
+
+}
