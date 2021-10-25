@@ -1,0 +1,39 @@
+body {
+  max-width: 1024;
+}
+.header {
+  background-color: #1d2540;
+  height: 50px;
+  width: 100%;
+}
+.div-logo {
+  display: block;
+}
+.logo {
+  height: 50px;
+  width: auto;
+}
+.hambruger-menu {
+}
+
+.section-1 {
+  background-color: burlywood;
+  height: 512px;
+  display: block;
+}
+.home-image {
+  height: 512px;
+  width: auto;
+  display: block;
+}
+
+.section-2 {
+  background-color: cadetblue;
+  height: 364px;
+}
+
+@media screen and (min-width: 789px) {
+}
+body {
+  background-color: chartreuse;
+}
